@@ -24,7 +24,7 @@ I went for a synthwave aesthetic, including some self-composed music, which the 
 
 Also features high scores stored locally.
 
-The development process will be detailed on my [website](https://adamkarlsten.com).
+The development process will be detailed on my [website](https://www.facebook.com/bejo.kalichava/).
 
 ## Screenshots
 
